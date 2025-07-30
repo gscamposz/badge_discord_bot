@@ -14,4 +14,4 @@ client.on('messageCreate', message => {
     }
 });
 
-client.login('MTExNzk4MTE2Njk3NzQxNzMzNg.GJS4mh.3e9Sd8DUgitUIuWXc1jJw_GlY9Fdgbp8PLorFA'); // Substitua pelo token do seu bot
+client.login(''); // Substitua pelo token do seu bot
