@@ -40,8 +40,8 @@ To receive the **Active Developer Badge** from Discord:
 
 ```bash
 # Clone the repo
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/gscamposz/badge_discord_bot.git
+cd https://github.com/gscamposz/badge_discord_bot.git
 
 # Install dependencies
 npm install
