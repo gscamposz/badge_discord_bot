@@ -47,4 +47,4 @@ cd https://github.com/gscamposz/badge_discord_bot.git
 npm install
 
 # Start the bot
-node index.js
+node insigniaDev.js
