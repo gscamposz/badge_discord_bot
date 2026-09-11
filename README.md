@@ -3,7 +3,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-20.x-green?logo=node.js)
 ![Discord.js](https://img.shields.io/badge/discord.js-v14-blue?logo=discord)
 ![License](https://img.shields.io/badge/license-MIT-yellow)
-![Status](https://img.shields.io/badge/status-Working-brightgreen)
+![Status](https://img.shields.io/badge/status-OFF-badge?color=%23ff0000)
 
 > A simple Discord bot made to qualify for the **Active Developer Badge**.
 
